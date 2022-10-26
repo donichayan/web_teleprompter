@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/web_teleprompter/static/css/main.deffd6fa.css",
+    "main.js": "/web_teleprompter/static/js/main.3be522b8.js",
+    "static/js/787.4fec4cc7.chunk.js": "/web_teleprompter/static/js/787.4fec4cc7.chunk.js",
+    "index.html": "/web_teleprompter/index.html",
+    "main.deffd6fa.css.map": "/web_teleprompter/static/css/main.deffd6fa.css.map",
+    "main.3be522b8.js.map": "/web_teleprompter/static/js/main.3be522b8.js.map",
+    "787.4fec4cc7.chunk.js.map": "/web_teleprompter/static/js/787.4fec4cc7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deffd6fa.css",
+    "static/js/main.3be522b8.js"
+  ]
+}
